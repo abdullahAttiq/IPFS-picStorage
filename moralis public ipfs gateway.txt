@@ -1,0 +1,2 @@
+moralis public ipfs gateway
+https://ipfs.moralis.io:2053/ipfs/
